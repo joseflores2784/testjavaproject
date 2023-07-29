@@ -13,7 +13,7 @@ public class a {
 		System.out.println("digite el valor de art");
 		float a= s.nextFloat();
 		
-		System.out.println("digite el valor de b");
+		System.out.println("digite el valor de soyedgar");
 		float b= s.nextFloat();
 		
 		System.out.println("digite el valor de c");
