@@ -10,7 +10,7 @@ public class a {
 		
 		Scanner s = new Scanner (System.in);
 		
-		System.out.println("digite el valor de a");
+		System.out.println("digite el valor de art");
 		float a= s.nextFloat();
 		
 		System.out.println("digite el valor de b");
